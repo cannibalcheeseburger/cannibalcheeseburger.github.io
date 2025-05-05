@@ -1,73 +1,123 @@
-# Forty - Jekyll Theme
+## 🌟 Sumanth Samala's Netflix inspired Portfolio 🌟 - https://sumanthsamala.com/
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+Welcome to my personal portfolio project! 🚀 This website showcases my work, skills, and experiences in web development. It's designed to be lightweight, customizable, and professional while maintaining an approachable style.
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+Explore specific subdomains tailored to different tech stacks:
 
-# How to Use
+- 🌟 [java.sumanthsamala.com](https://java.sumanthsamala.com/) for Java Spring Boot-related work.
+- 🌟 [node.sumanthsamala.com](https://node.sumanthsamala.com/) for Node.js and backend development.
+- 🌟 [frontend.sumanthsamala.com](https://frontend.sumanthsamala.com/) for frontend development expertise.
+- 🌟 [ror.sumanthsamala.com](https://ror.sumanthsamala.com/) for Ruby on Rails projects.
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+![Screenshot from 2024-12-08 19-19-06](https://github.com/user-attachments/assets/f8220485-16ec-48cf-8cb2-7853540c5724)
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this repository and create a branch named `gh-pages`, then start editing the `_config.yml` file.
+---
 
-# Added Features
+## ✨ Features
 
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
+- 🌍 **Dynamic Content**: Powered by [DatoCMS](https://www.datocms.com) for easy content management.
+- ⚡ **Fast & Responsive**: Built with modern web technologies for seamless performance.
+- 🎨 **Customizable**: Modular and easy to adapt to your own needs.
+- 📈 **Professional Yet Personal**: Highlights projects, skills, and achievements.
+- 🎨 It can support various por
 
-# Issues
+---
 
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/forty-jekyll-theme) and I will be more than happy to help!
+## 🛠️ Tech Stack
 
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com).
+This portfolio is built with love and:
 
-The GitHub repository is simply a mirror of the GitLab repository.
+- ⚛️ **React** (Frontend)
+- ☁️ **AWS S3 & CloudFront** (Hosting and CDN)
+- 🖌️ **Tailwind CSS** (Styling)
+- 🛡️ **DatoCMS** (Content Management)
+- 🧩 **Other Cool Tools**: GitHub Actions
 
-# Credits
+---
 
-Original README from HTML5 UP:
+## ⭐ Show Your Support
 
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+If you find this project helpful or inspiring, give it a ⭐ on GitHub—it means the world to me! 🌟
 
+Happy coding! 💻✨
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📚 Getting Started
 
-(* = not included)
+Want to set this up locally? Follow these steps:
 
-AJ
-aj@lkn.io | @ajlkn
+1. **Clone the Repository**: Copy the repository to your local system.
+2. **Install Dependencies**: Use a package manager to install the required dependencies.
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+```bash
+nvm install 18
+nvm use 18
 ```
 
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+After upgrading Node.js, clear your node_modules and reinstall:
+
+```bash
+rm -rf node_modules
+npm cache clean --force
+npm install
+```
+
+3. **Configure Environment Variables**: Create a `.env` file and set up the necessary API keys and configurations.
+4. **Run the Project**: Start the development server.
+
+```bash
+npm start
+```
+
+5. **Visit the Local Server**: Open your browser and navigate to the local server URL.
+   ![alt text](image.png)
+
+---
+
+## 🤝 Contribution Guidelines
+
+Contributions are welcome and appreciated! 🥳 To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes with a descriptive message.
+4. Push your changes to your branch.
+5. Open a Pull Request. 🎉
+
+---
+
+## 🐛 Issues and Feature Requests
+
+Found a bug? Have a feature in mind? 🤔 Feel free to raise an issue or suggest a feature!
+
+1. Go to the **Issues** tab in the repository.
+2. Click **New Issue**.
+3. Provide a clear description of the bug or feature request.
+4. If applicable, include screenshots or steps to reproduce the issue.
+
+Your feedback is valuable and helps make this project better for everyone. Thank you for contributing!
+
+---
+
+## 🌟 Acknowledgments
+
+- Thanks to [DatoCMS](https://www.datocms.com) for powering the dynamic content.
+- Inspired by countless developers in the open-source community. 💻
+- Special shoutout to all contributors—you rock! 🤘
+
+---
+
+## 📧 Contact Me
+
+- 💼 [Portfolio Website](https://sumanthsamala.com)
+- 📧 Email: [chintusamala96@gmail.com](mailto:chintusamala96@gmail.com)
+- 🔗 [LinkedIn](https://uk.linkedin.com/in/sumanth-samala-82431161)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use it, modify it, and share it! 🌈
+
+---
