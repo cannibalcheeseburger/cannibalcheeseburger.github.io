@@ -1,23 +1,25 @@
+# Changelog
 
-# Change Log
 All notable changes to this project will be documented in this file.
- 
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
- 
-## [Unreleased] - yyyy-mm-dd
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [1.0.0] - 2021-05-15
 
 ### Added
-- [Issues/32](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton/issues/32): Added project technologies badge features. Users can specefic technologies used in projects to appear as badges on the home page. Bades are added if project yaml in `_data/projects/yml` has a `tech` key. 
-- Netlify Toml: Added a netlify toml file to satisfy requirements by Netlify in order to make a PR to their [templates site](https://templates.netlify.com/)
+- Create gem-based theme scaffolding [#2](https://github.com/LeNPaul/academic/issues/2)
+- Create default.html layout [#3](https://github.com/LeNPaul/academic/issues/3)
+- Create home.html layout [#4](https://github.com/LeNPaul/academic/issues/4)
+- Create page.html layout [#5](https://github.com/LeNPaul/academic/issues/5)
+- Create people.html layout [#6](https://github.com/LeNPaul/academic/issues/6)
+- Create publications.html layout [#7](https://github.com/LeNPaul/academic/issues/7)
+- Create post.html layout [#8](https://github.com/LeNPaul/academic/issues/8)
+- Create cv.html layout [#9](https://github.com/LeNPaul/academic/issues/9)
+- Create contact.html layout [#10](https://github.com/LeNPaul/academic/issues/10)
+- Create course.html layout [#11](https://github.com/LeNPaul/academic/issues/11)
 
 ### Changed
-- Footer UI now includes no background color and Right-aligned dark social icons from `social-footer.html`
-- 
- 
-### Fixed
-- [Issues/32](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton/issues/36): Fixed by adding `border-0` to cards used on homepage and elsewhere
-
-
-## [1.0] - 2020-11-07  
-Release v1.0 is the first production version of the Dumbarton theme  
+- Prepare theme to be published on RubyGems [#12](https://github.com/LeNPaul/academic/issues/12)

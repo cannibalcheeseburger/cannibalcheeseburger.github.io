@@ -1,14 +1,11 @@
 <!DOCTYPE html>
-{% assign theme = site.data.themes[site.ui_theme] %}
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
   {% include head.html %}
-  <body style="background-color:{{theme.background-color}};">
-    {% include nav.html %}
-    <div class="dumbarton-spacer-sm"></div>
-    <div class="container">
+  <body>
+    <div class="col-lg-8 mx-auto p-3 py-md-5">
+      {% include header.html %}
       {{ content }}
+      {% include footer.html %}
     </div>
-    <div class="dumbarton-spacer"></div>
-    {% include footer.html %}
   </body>
 </html>

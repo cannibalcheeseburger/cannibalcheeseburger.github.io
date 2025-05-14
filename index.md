@@ -1,9 +1,8 @@
 ---
 layout: home
-title: 
-date: 2020-11-20 
+title: "Home"
 ---
-### Hi, I'm Dumbarton 👋
-Dumbarton is a Jekyll Theme developed by [Tyler Butler](https://github.com/tcbutler320). The theme is designed for academics and features a simple home page with an about me section and an interactive highlights section to describe publications, coursework, courses taught, and projects. You can checkout the project on [Github](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton), feel free to make contributions and feature requests and don't forget to give it a star.
 
-<a href="/contact.html" class="highlighted">Contact Me</a>
+This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+
+Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
