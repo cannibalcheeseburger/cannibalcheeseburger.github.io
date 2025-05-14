@@ -1,4 +1,6 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
+#gemspec
+gem 'jekyll'                    #Needed since this is a theme for Jekyll
+gem 'jekyll-feed'
+gem 'jekyll-scholar'
+gem 'jekyll-environment-variables'
