@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Hey, I’m Kashish Srivastava-currently Masters's Student at IIT Delhi’s School of AI (MTech MINDS), with a soft spot for reinforcement learning and a hard drive full of ideas. I graduated from NIT Hamirpur (CSE, 2022), where I learned that debugging code and tuning guitars both require serious patience and the occasional existential crisis.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Outside the lab, you’ll find me behind a camera, under a barbell, or lost in a film that probably has a Rotten Tomatoes score I’ll defend to the grave.
