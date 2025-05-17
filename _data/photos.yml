@@ -1,8 +1,18 @@
-- image: assets/img/contact_scene.jpeg
+- image: assets/img/photography/hillside.jpeg
   caption: "Sunset at the beach"
-- image: assets/img/graduate-student.jpg
+- image: assets/img/photography/kasauli.jpeg
   caption: "Mountain hike"
-- image: assets/img/home.jpg
+- image: assets/img/photography/kufri.jpeg
   caption: "City lights"
-- image: assets/img/profile.jpeg
+- image: assets/img/photography/shimla.jpeg
+  caption: "Forest trail"
+- image: assets/img/photography/sm.jpeg
+  caption: "Mountain hike"
+- image: assets/img/photography/sunset.jpeg
+  caption: "City lights"
+- image: assets/img/photography/naldehra.jpeg
+  caption: "Forest trail"
+- image: assets/img/photography/thachi.jpeg
+  caption: "City lights"
+- image: assets/img/photography/toy_train.jpeg
   caption: "Forest trail"
