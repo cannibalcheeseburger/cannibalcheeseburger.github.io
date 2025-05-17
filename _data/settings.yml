@@ -27,4 +27,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/kashish-srivastava-473b4b10a/'}
 
 contacts:
-- {name: 'Kashish Srivastava', title: 'MTech AI (MINDS)', department: 'School of AI', institution: 'IIT Delhi', institution_address: 'Hauz Khas, New Delhi, Delhi 110016', entry_number: '2024AIB2289', email: 'kashish.srivastava014@gmail.com', lab: 'ScAI Lab, 5th floor,99C', image: 'assets/img/contact.jpeg'}
+- {name: 'Kashish Srivastava', title: 'MTech AI (MINDS)', department: 'School of AI', institution: 'IIT Delhi', institution_address: 'Hauz Khas, New Delhi, Delhi 110016', email: 'kashish.srivastava014@gmail.com', lab: 'ScAI Lab, 5th floor,99C', image: 'assets/img/contact_scene.jpeg'}
