@@ -1,10 +1,10 @@
 menu:
 #- {name: 'people', url: '/people'}
 #- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
-- {name: 'photography', url: '/photography'}
+- {name: 'Courses', url: '/courses'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
+- {name: 'Photography', url: '/photography'}
 
 
 people:
